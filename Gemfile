@@ -8,6 +8,8 @@ gem 'rails', '~> 5.2.4', '>= 5.2.4.1'
 gem 'bcrypt', '3.1.12'
 gem 'bootstrap-sass', '3.3.7'
 gem 'rails-controller-testing'
+# sentry SDK
+gem 'sentry-raven'
 # Use sqlite3 as the database for Active Record
 gem 'pg'
 # Use Puma as the app server
