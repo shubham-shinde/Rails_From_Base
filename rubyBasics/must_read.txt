@@ -1,0 +1,1 @@
+https://www.rubypigeon.com/posts/examining-internals-of-rails-request-response-cycle/
